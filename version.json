@@ -1,11 +1,8 @@
 {
-  "version":"3.3.8",
+  "version":"3.3.9",
   "patchnote" : [
-    "Improved resmon (0.00 - 0.03)",
-    "Improved memory 9.26 MiB+ -> 4.50 MiB+",
-    "Removed not needed junk code",
-    "Added more developer tools",
-    "QBCORE and VRP are now supported",
-    "Much more"
+    "Console Spam error fixed",
+    "Other errors fixed,
+    "Added anti ped"
   ]
 }

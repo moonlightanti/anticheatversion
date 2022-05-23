@@ -3,6 +3,7 @@
   "patchnote" : [
     "Console Spam error fixed",
     "Other errors fixed",
-    "Added anti ped"
+    "Added anti ped",
+    "Client Errors have been issued and fixed"
   ]
 }

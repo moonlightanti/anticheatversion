@@ -1,9 +1,12 @@
 {
-  "version":"3.3.9",
+  "version":"3.4.0",
   "patchnote" : [
     "Console Spam error fixed",
     "Other errors fixed",
-    "Added anti ped",
+    "Godmode types fixed",
+    "Added AntiMoneydupe",
+    "Rape Player error fixed",
+    "Added Layer7 ddos protection",
     "Client Errors have been issued and fixed"
   ]
 }

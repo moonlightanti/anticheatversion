@@ -1,12 +1,6 @@
 {
   "version":"3.4.0",
   "patchnote" : [
-    "Console Spam error fixed",
-    "Other errors fixed",
-    "Godmode types fixed",
-    "Added AntiMoneydupe",
-    "Rape Player error fixed",
-    "Added Layer7 ddos protection",
-    "Client Errors have been issued and fixed"
+    "Eulen anti car spawn added"
   ]
 }

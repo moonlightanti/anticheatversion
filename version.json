@@ -1,6 +1,8 @@
 {
-  "version":"3.4.1",
+  "version":"3.6.1",
   "patchnote" : [
-    "Eulen anti car spawn added"
+    "All errors which popped up were fixed",
+    "Removed non working functions",
+    "Updated functions"
   ]
 }
